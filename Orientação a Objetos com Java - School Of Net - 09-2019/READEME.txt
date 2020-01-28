@@ -1,0 +1,17 @@
+Arquivos de estudo do curso Java Orientado a Objetos realizado na plataforma de ensino School Of Net na mês de Setembro de 2019.
+
+Estudos de:
+
+- Atributos
+- Métodos
+- Encapsulamentos
+- Herança 
+- Composições
+- Polimorfismo
+- Interfaces 
+- Classes Abstratas
+
+Atenciosamente,
+Gabriel Salles Mota
+gabrielsallesmota@hotmail.com
+(11) 94513-5128
