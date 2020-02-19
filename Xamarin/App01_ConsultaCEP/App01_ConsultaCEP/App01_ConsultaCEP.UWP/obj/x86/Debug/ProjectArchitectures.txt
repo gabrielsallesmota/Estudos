@@ -1,0 +1,1 @@
+D:\Programação\Xamarin\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP.UWP\App01_ConsultaCEP.UWP.csproj;x86

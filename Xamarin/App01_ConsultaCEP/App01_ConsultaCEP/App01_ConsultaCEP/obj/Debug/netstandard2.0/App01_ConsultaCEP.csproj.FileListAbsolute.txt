@@ -1,0 +1,12 @@
+D:\Programação\Xamarin\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\bin\Debug\netstandard2.0\App01_ConsultaCEP.deps.json
+D:\Programação\Xamarin\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\bin\Debug\netstandard2.0\App01_ConsultaCEP.dll
+D:\Programação\Xamarin\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\obj\Debug\netstandard2.0\App01_ConsultaCEP.csprojAssemblyReference.cache
+D:\Programação\Xamarin\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Programação\Xamarin\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Programação\Xamarin\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\obj\Debug\netstandard2.0\App01_ConsultaCEP.csproj.CoreCompileInputs.cache
+D:\Programação\Xamarin\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\obj\Debug\netstandard2.0\App01_ConsultaCEP.AssemblyInfoInputs.cache
+D:\Programação\Xamarin\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\obj\Debug\netstandard2.0\App01_ConsultaCEP.AssemblyInfo.cs
+D:\Programação\Xamarin\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\bin\Debug\netstandard2.0\App01_ConsultaCEP.pdb
+D:\Programação\Xamarin\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Programação\Xamarin\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\obj\Debug\netstandard2.0\App01_ConsultaCEP.dll
+D:\Programação\Xamarin\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\obj\Debug\netstandard2.0\App01_ConsultaCEP.pdb
