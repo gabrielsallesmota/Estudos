@@ -1,0 +1,7 @@
+//Exemplo de callback no brownser
+document.getElementsByTagName('body')[0].onclick = function (e) {
+    console.log('O evento ocorreu!')
+}
+
+fabricantes.forEach(imprimir)
+fabricantes.forEach(fabricante)
